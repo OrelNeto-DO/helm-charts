@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  gif-app:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-02-09T03:28:23.9034649+02:00"
+    description: A Helm chart for Kubernetes
+    digest: 3c571d1c2779f762bb29aad0912929f7bbf4dedebf871c34a3ea9f257ccb05a5
+    name: gif-app
+    type: application
+    urls:
+    - https://orelneto-do.github.io/helm-charts/gif-app-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-02-09T03:28:23.9022481+02:00"
