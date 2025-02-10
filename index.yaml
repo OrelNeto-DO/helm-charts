@@ -9,6 +9,6 @@ entries:
     name: gif-app
     type: application
     urls:
-    - https://orelneto-do.github.io/helm-charts/gif-app-0.1.0.tgz
+    - https://orelneto-do.github.io/helm-charts/gif-app/gif-app-0.1.0.tgz
     version: 0.1.0
 generated: "2025-02-09T03:28:23.9022481+02:00"
