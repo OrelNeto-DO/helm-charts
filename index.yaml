@@ -2,8 +2,18 @@ apiVersion: v1
 entries:
   gif-app:
   - apiVersion: v2
+    appVersion: 1.0.9
+    created: "2025-03-02T04:41:55.10269304Z"
+    description: A Helm chart for Kubernetes
+    digest: 0ef5e5120ac9cd283c0ff40ce748b86356cf65ad144e8fc8aee59c679d8180f1
+    name: gif-app
+    type: application
+    urls:
+    - https://OrelNeto-DO.github.io/helm-charts/gif-app-1.0.9.tgz
+    version: 1.0.9
+  - apiVersion: v2
     appVersion: 1.0.7
-    created: "2025-03-02T04:07:48.659147188Z"
+    created: "2025-03-02T04:41:55.102400101Z"
     description: A Helm chart for Kubernetes
     digest: a7063c39adb141ed9e6b10a39c94f85135dd705a1e2bb4c058c296bb8b0d5a28
     name: gif-app
@@ -13,7 +23,7 @@ entries:
     version: 1.0.7
   - apiVersion: v2
     appVersion: 1.0.6
-    created: "2025-03-02T04:07:48.658870003Z"
+    created: "2025-03-02T04:41:55.10211613Z"
     description: A Helm chart for Kubernetes
     digest: 75e6a0a9a03571be7b308bfe6b315b16828acd97b08e60decfa14c90883c1017
     name: gif-app
@@ -23,7 +33,7 @@ entries:
     version: 1.0.6
   - apiVersion: v2
     appVersion: 1.0.5
-    created: "2025-03-02T04:07:48.658589683Z"
+    created: "2025-03-02T04:41:55.101797203Z"
     description: A Helm chart for Kubernetes
     digest: 2588e080d7ac7eabf2eb39438e741f6fa1bb9d64e5372cb03fd046f97700f132
     name: gif-app
@@ -33,7 +43,7 @@ entries:
     version: 1.0.5
   - apiVersion: v2
     appVersion: 1.0.2
-    created: "2025-03-02T04:07:48.65828131Z"
+    created: "2025-03-02T04:41:55.101494937Z"
     description: A Helm chart for Kubernetes
     digest: ce84226c1dc025dfa1b1e85902bb8e69edbf4ba8b3872161244995751b5349ec
     name: gif-app
@@ -43,7 +53,7 @@ entries:
     version: 1.0.2
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-03-02T04:07:48.659435693Z"
+    created: "2025-03-02T04:41:55.102954699Z"
     description: A Helm chart for Kubernetes
     digest: 3c571d1c2779f762bb29aad0912929f7bbf4dedebf871c34a3ea9f257ccb05a5
     name: gif-app
@@ -51,4 +61,4 @@ entries:
     urls:
     - https://OrelNeto-DO.github.io/helm-charts/gif-app/gif-app-0.1.0.tgz
     version: 0.1.0
-generated: "2025-03-02T04:07:48.657823851Z"
+generated: "2025-03-02T04:41:55.101071886Z"
