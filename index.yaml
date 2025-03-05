@@ -2,8 +2,18 @@ apiVersion: v1
 entries:
   gif-app:
   - apiVersion: v2
+    appVersion: 1.0.56
+    created: "2025-03-05T13:08:24.034748657Z"
+    description: A Helm chart for Kubernetes
+    digest: 015428f6d00fa63dcee8e6409b6049c93c0385a939df0832f59d825e96bac6c7
+    name: gif-app
+    type: application
+    urls:
+    - https://OrelNeto-DO.github.io/helm-charts/gif-app-1.0.56.tgz
+    version: 1.0.56
+  - apiVersion: v2
     appVersion: 1.0.55
-    created: "2025-03-05T06:13:40.872371604Z"
+    created: "2025-03-05T13:08:24.034050981Z"
     description: A Helm chart for Kubernetes
     digest: 79b3cf1e0b4f4d927cfaabca092fa8518fd257e35525c9ad233bbfafc053c727
     name: gif-app
@@ -13,7 +23,7 @@ entries:
     version: 1.0.55
   - apiVersion: v2
     appVersion: 1.0.54
-    created: "2025-03-05T06:13:40.871987418Z"
+    created: "2025-03-05T13:08:24.033367832Z"
     description: A Helm chart for Kubernetes
     digest: d58baa4236082ad0aea0289a5a630e226a4a4fcb112d65fdb05618c357af243a
     name: gif-app
@@ -23,7 +33,7 @@ entries:
     version: 1.0.54
   - apiVersion: v2
     appVersion: 1.0.53
-    created: "2025-03-05T06:13:40.871649848Z"
+    created: "2025-03-05T13:08:24.032707325Z"
     description: A Helm chart for Kubernetes
     digest: f4cfb071299fb5f9bcbcc7b519bc3c34460e923df89b5177a5b99644eab849c9
     name: gif-app
@@ -33,7 +43,7 @@ entries:
     version: 1.0.53
   - apiVersion: v2
     appVersion: 1.0.52
-    created: "2025-03-05T06:13:40.87131319Z"
+    created: "2025-03-05T13:08:24.032006372Z"
     description: A Helm chart for Kubernetes
     digest: c4bda96cea968f0089538aa3d670e305340e14b783518a18bf59391a6c2e3d74
     name: gif-app
@@ -43,7 +53,7 @@ entries:
     version: 1.0.52
   - apiVersion: v2
     appVersion: 1.0.51
-    created: "2025-03-05T06:13:40.870953559Z"
+    created: "2025-03-05T13:08:24.031304619Z"
     description: A Helm chart for Kubernetes
     digest: cee64dde00f631eb5c44121cbe95c79a4540cdd16c0a6c405d84fbe7bf942911
     name: gif-app
@@ -53,7 +63,7 @@ entries:
     version: 1.0.51
   - apiVersion: v2
     appVersion: 1.0.50
-    created: "2025-03-05T06:13:40.870623634Z"
+    created: "2025-03-05T13:08:24.030652437Z"
     description: A Helm chart for Kubernetes
     digest: 71bb1bbc048ee1535374060cb2eb880cd782ad8c50c350b63b2b274c9722fd4f
     name: gif-app
@@ -63,7 +73,7 @@ entries:
     version: 1.0.50
   - apiVersion: v2
     appVersion: 1.0.49
-    created: "2025-03-05T06:13:40.870285974Z"
+    created: "2025-03-05T13:08:24.029928953Z"
     description: A Helm chart for Kubernetes
     digest: 7103e6763295fd9d84239d40c534a61f99e4c6fd031eeff83764d22d546a5f8a
     name: gif-app
@@ -73,7 +83,7 @@ entries:
     version: 1.0.49
   - apiVersion: v2
     appVersion: 1.0.48
-    created: "2025-03-05T06:13:40.869917757Z"
+    created: "2025-03-05T13:08:24.029266242Z"
     description: A Helm chart for Kubernetes
     digest: e4654521a982bafdca42dd734d19bbbef45e629030b3e4e2e20f4d16bd1d5f8a
     name: gif-app
@@ -83,7 +93,7 @@ entries:
     version: 1.0.48
   - apiVersion: v2
     appVersion: 1.0.47
-    created: "2025-03-05T06:13:40.869520766Z"
+    created: "2025-03-05T13:08:24.028320269Z"
     description: A Helm chart for Kubernetes
     digest: 90eef14d3dadc99a1a8ee4a9bda2127f05d84c282f415c4707d097ea07e58d37
     name: gif-app
@@ -93,7 +103,7 @@ entries:
     version: 1.0.47
   - apiVersion: v2
     appVersion: 1.0.46
-    created: "2025-03-05T06:13:40.868517787Z"
+    created: "2025-03-05T13:08:24.027656005Z"
     description: A Helm chart for Kubernetes
     digest: 4e88cf69ffc2efcc1ccd10f4001c5804fe99adad9e639e94e81299b68078ee2b
     name: gif-app
@@ -103,7 +113,7 @@ entries:
     version: 1.0.46
   - apiVersion: v2
     appVersion: 1.0.45
-    created: "2025-03-05T06:13:40.868008437Z"
+    created: "2025-03-05T13:08:24.027108748Z"
     description: A Helm chart for Kubernetes
     digest: cc42b4d74059222cf0418ee333c9dbb5e7a90d8c070f318ae13e7eab0cd48816
     name: gif-app
@@ -113,7 +123,7 @@ entries:
     version: 1.0.45
   - apiVersion: v2
     appVersion: 1.0.44
-    created: "2025-03-05T06:13:40.867697998Z"
+    created: "2025-03-05T13:08:24.026781541Z"
     description: A Helm chart for Kubernetes
     digest: 08c190b0e466e98e710eb4d2580c2cdd2a8bbf7eaa40a11146b4f741ea7db176
     name: gif-app
@@ -123,7 +133,7 @@ entries:
     version: 1.0.44
   - apiVersion: v2
     appVersion: 1.0.43
-    created: "2025-03-05T06:13:40.867408808Z"
+    created: "2025-03-05T13:08:24.0264797Z"
     description: A Helm chart for Kubernetes
     digest: 9b94ab353d1c1bbda2dc4a14b73472e435ea1eeb4dc54b15f8a797e59f4754ac
     name: gif-app
@@ -133,7 +143,7 @@ entries:
     version: 1.0.43
   - apiVersion: v2
     appVersion: 1.0.42
-    created: "2025-03-05T06:13:40.867101255Z"
+    created: "2025-03-05T13:08:24.026140269Z"
     description: A Helm chart for Kubernetes
     digest: a62fddbf797e436bfd83055b587abcd837269178913bd81f8f7a6d9f954805ad
     name: gif-app
@@ -143,7 +153,7 @@ entries:
     version: 1.0.42
   - apiVersion: v2
     appVersion: 1.0.41
-    created: "2025-03-05T06:13:40.866782791Z"
+    created: "2025-03-05T13:08:24.0258229Z"
     description: A Helm chart for Kubernetes
     digest: 5eec9b0158d31cc7cd3ebcd61824701d80853c4a2287518528f0adbcefbbed7e
     name: gif-app
@@ -153,7 +163,7 @@ entries:
     version: 1.0.41
   - apiVersion: v2
     appVersion: 1.0.40
-    created: "2025-03-05T06:13:40.86649279Z"
+    created: "2025-03-05T13:08:24.025273068Z"
     description: A Helm chart for Kubernetes
     digest: f22d2692602fdef7578ff886b601907892ff32ae072a8205639ac6cc43600fba
     name: gif-app
@@ -163,7 +173,7 @@ entries:
     version: 1.0.40
   - apiVersion: v2
     appVersion: 1.0.39
-    created: "2025-03-05T06:13:40.866187931Z"
+    created: "2025-03-05T13:08:24.0249782Z"
     description: A Helm chart for Kubernetes
     digest: 88446a1b9c63adf92240475ef99ea05590e441d36b8f30b68e1a52c845ce772f
     name: gif-app
@@ -173,7 +183,7 @@ entries:
     version: 1.0.39
   - apiVersion: v2
     appVersion: 1.0.38
-    created: "2025-03-05T06:13:40.865882952Z"
+    created: "2025-03-05T13:08:24.024673444Z"
     description: A Helm chart for Kubernetes
     digest: 8f9137b75523cd9ff83423803f75f2a0103df2bf8c19956305bbe2afde55ebee
     name: gif-app
@@ -183,7 +193,7 @@ entries:
     version: 1.0.38
   - apiVersion: v2
     appVersion: 1.0.37
-    created: "2025-03-05T06:13:40.86558153Z"
+    created: "2025-03-05T13:08:24.024342209Z"
     description: A Helm chart for Kubernetes
     digest: 2ca5d7449680a2dd378464a53c8107c11da993a14ee0c3ba0f32fc4997cb5dbb
     name: gif-app
@@ -193,7 +203,7 @@ entries:
     version: 1.0.37
   - apiVersion: v2
     appVersion: 1.0.36
-    created: "2025-03-05T06:13:40.865264218Z"
+    created: "2025-03-05T13:08:24.024032002Z"
     description: A Helm chart for Kubernetes
     digest: 5716f65bc6e47b6847e750c8872b7177526b21179df66761905b9532912ca279
     name: gif-app
@@ -203,7 +213,7 @@ entries:
     version: 1.0.36
   - apiVersion: v2
     appVersion: 1.0.35
-    created: "2025-03-05T06:13:40.864953158Z"
+    created: "2025-03-05T13:08:24.023737024Z"
     description: A Helm chart for Kubernetes
     digest: a7c1598d39c71eeb3395cc13eca0baa6dad586f9bd0978b6d37628f5a0733cae
     name: gif-app
@@ -213,7 +223,7 @@ entries:
     version: 1.0.35
   - apiVersion: v2
     appVersion: 1.0.34
-    created: "2025-03-05T06:13:40.864665391Z"
+    created: "2025-03-05T13:08:24.023390921Z"
     description: A Helm chart for Kubernetes
     digest: 1fb961992dfe6de5ab9a988e8a0b6130969b721879f948c393409d1e64278992
     name: gif-app
@@ -223,7 +233,7 @@ entries:
     version: 1.0.34
   - apiVersion: v2
     appVersion: 1.0.33
-    created: "2025-03-05T06:13:40.86437563Z"
+    created: "2025-03-05T13:08:24.023082789Z"
     description: A Helm chart for Kubernetes
     digest: 53b1a7252675a3dacfd7bb3c5127528bb2fdbc20d5ce105b69ac6e9cc9db7650
     name: gif-app
@@ -233,7 +243,7 @@ entries:
     version: 1.0.33
   - apiVersion: v2
     appVersion: 1.0.32
-    created: "2025-03-05T06:13:40.864064259Z"
+    created: "2025-03-05T13:08:24.022784184Z"
     description: A Helm chart for Kubernetes
     digest: ace3da98033a0bfa83af84cfdc49b543c8d79b46907405c43da34ccefce3233a
     name: gif-app
@@ -243,7 +253,7 @@ entries:
     version: 1.0.32
   - apiVersion: v2
     appVersion: 1.0.31
-    created: "2025-03-05T06:13:40.863770972Z"
+    created: "2025-03-05T13:08:24.02245883Z"
     description: A Helm chart for Kubernetes
     digest: 6a23e610e26e6d7d2c3dfd3bc188ec45741ecd5fdc32f05c5f32a316daa353b5
     name: gif-app
@@ -253,7 +263,7 @@ entries:
     version: 1.0.31
   - apiVersion: v2
     appVersion: 1.0.30
-    created: "2025-03-05T06:13:40.863472366Z"
+    created: "2025-03-05T13:08:24.022116373Z"
     description: A Helm chart for Kubernetes
     digest: 80356a758796e2d832a31beff016878a8414612604471ab94bc9aab806005fb3
     name: gif-app
@@ -263,7 +273,7 @@ entries:
     version: 1.0.30
   - apiVersion: v2
     appVersion: 1.0.29
-    created: "2025-03-05T06:13:40.863205327Z"
+    created: "2025-03-05T13:08:24.021816226Z"
     description: A Helm chart for Kubernetes
     digest: 84728e058a801f4889c2d4254a186f8c7801db652dd9f86496108ecf6851a4dd
     name: gif-app
@@ -273,7 +283,7 @@ entries:
     version: 1.0.29
   - apiVersion: v2
     appVersion: 1.0.28
-    created: "2025-03-05T06:13:40.862909626Z"
+    created: "2025-03-05T13:08:24.021504457Z"
     description: A Helm chart for Kubernetes
     digest: fc93eb5ecc5edf6867e4d7536a68dd30bcc9f9a4faa68223dbebf3cf9aadafd2
     name: gif-app
@@ -283,7 +293,7 @@ entries:
     version: 1.0.28
   - apiVersion: v2
     appVersion: 1.0.23
-    created: "2025-03-05T06:13:40.862642117Z"
+    created: "2025-03-05T13:08:24.020759648Z"
     description: A Helm chart for Kubernetes
     digest: 9bd2130965cb623fcbace82508eb393e1961d8b172ddbbdf4791fd5c2ed13676
     name: gif-app
@@ -293,7 +303,7 @@ entries:
     version: 1.0.23
   - apiVersion: v2
     appVersion: 1.0.19
-    created: "2025-03-05T06:13:40.862362645Z"
+    created: "2025-03-05T13:08:24.020030483Z"
     description: A Helm chart for Kubernetes
     digest: 660c6f40b99f39b85870bb03fd46f7a7b244353dfe956ee9b0a024edca816a34
     name: gif-app
@@ -303,7 +313,7 @@ entries:
     version: 1.0.19
   - apiVersion: v2
     appVersion: 1.0.12
-    created: "2025-03-05T06:13:40.862062015Z"
+    created: "2025-03-05T13:08:24.019236258Z"
     description: A Helm chart for Kubernetes
     digest: 467c4230c3eb30df1bf03c2f6235b3ba03e2587f4ec6861ea36a0b164807eea7
     name: gif-app
@@ -313,7 +323,7 @@ entries:
     version: 1.0.12
   - apiVersion: v2
     appVersion: 1.0.11
-    created: "2025-03-05T06:13:40.861756014Z"
+    created: "2025-03-05T13:08:24.018696585Z"
     description: A Helm chart for Kubernetes
     digest: bb44efea9be6bf65dfc485a2496f9980e8f66588f7c5cd9498eeff62f75fb4df
     name: gif-app
@@ -323,7 +333,7 @@ entries:
     version: 1.0.11
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-03-05T06:13:40.872651507Z"
+    created: "2025-03-05T13:08:24.035276247Z"
     description: A Helm chart for Kubernetes
     digest: 3c571d1c2779f762bb29aad0912929f7bbf4dedebf871c34a3ea9f257ccb05a5
     name: gif-app
@@ -331,4 +341,4 @@ entries:
     urls:
     - https://OrelNeto-DO.github.io/helm-charts/gif-app/gif-app-0.1.0.tgz
     version: 0.1.0
-generated: "2025-03-05T06:13:40.861329288Z"
+generated: "2025-03-05T13:08:24.017886831Z"
